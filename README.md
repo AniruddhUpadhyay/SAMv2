@@ -56,7 +56,7 @@ data
 
 ## Colab Demo
 
-Interactive Colab demo: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Hf_ticAbO7Oyh5Rat2XqQ-FAkm4vk3RQ?usp=sharing)
+Interactive Colab demo: [![Open In Colab](https://colab.research.google.com/drive/1ktt5cIixwiSMEkdNvoyTOb02sh1M62Rp?usp=sharing)
 
 ## Prerequisites & Installation
 Install anaconda following the [anaconda installation documentation](https://docs.anaconda.com/anaconda/install/).
