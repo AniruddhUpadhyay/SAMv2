@@ -11,7 +11,7 @@
 [![BibTeX](https://img.shields.io/badge/BibTeX-Cite-blueviolet.svg)](#citation)
 
 ## Updates
-Due to the many requests we received for releasing the BiomedCLIP fine-tuning code, we have updated the repo and added the necessary code to do so. Follow the steps [here](#how-to-run)
+Follow the steps [here](#how-to-run)
 
 ## Overview
 
